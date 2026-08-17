@@ -1,0 +1,11 @@
+model_version,query_type,device_type,quality_score,latency_ms,cost,user_rating
+A,technical,mobile,0.89,1200,0.40,4.2
+A,billing,desktop,0.91,1100,0.38,4.4
+A,account,mobile,0.87,1300,0.42,4.0
+A,technical,desktop,0.90,1250,0.41,4.3
+A,billing,mobile,0.92,1150,0.39,4.5
+B,technical,mobile,0.95,1500,0.70,4.7
+B,billing,desktop,0.93,1400,0.65,4.6
+B,account,mobile,0.88,1550,0.72,4.1
+B,technical,desktop,0.96,1450,0.68,4.8
+B,billing,mobile,0.94,1350,0.64,4.7
